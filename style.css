@@ -20,5 +20,10 @@
 
 .project-images img {
     width: 270px;
-    height: autopx;
+    height: auto;
+}
+
+.project-images .single-image {
+    width: auto;
+    max-width: 100%;
 }
